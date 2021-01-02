@@ -1,0 +1,3 @@
+[submodule "smart-brain"]
+	path = smart-brain
+	url = https://github.com/julioct99/smart-brain.git
